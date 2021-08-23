@@ -1,0 +1,23 @@
+{
+  "name": "calendify",
+  "version": "0.0.1",
+  "description": "Calendar UI Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizentium/calendify.git"
+  },
+  "keywords": [
+    "calendar",
+    "date"
+  ],
+  "author": "Arif Hidayat <rizentium@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rizentium/calendify/issues"
+  },
+  "homepage": "https://github.com/rizentium/calendify#readme"
+}
